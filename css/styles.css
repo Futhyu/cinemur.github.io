@@ -64,7 +64,7 @@ ul li{
 
 .about, .amenities, .advantages, .comments, .forms{
     position: relative;
-    margin: 2em;
+    margin: 4em 0;
     padding: 10px;
     text-align: justify;
 }
