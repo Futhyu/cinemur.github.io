@@ -18,7 +18,7 @@ ul li{
 }
 
 .header{
-    background-image: url("file:///C:/Users/Тимур/Desktop/1-41/зачет/img/background.jpg");
+    background-image: url("img/background.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
