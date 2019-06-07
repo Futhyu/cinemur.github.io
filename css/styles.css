@@ -67,6 +67,8 @@ ul li{
     margin: 4em 0;
     padding: 10px;
     text-align: justify;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 .about img{
