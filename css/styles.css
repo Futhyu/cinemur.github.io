@@ -5,13 +5,13 @@ h1, h2, p, ul li{
     color:rgb(24, 24, 24);
 }
 h1{
-    font-size: 7vmax;  
+    font-size: 13vh;  
 }
 h2{
-    font-size: 3vmax;
+    font-size: 6vh;
 }
 p{ 
-    font-size: 2vmax;
+    font-size: 4vh;
 }
 ul li{
     padding-left: 30px;
